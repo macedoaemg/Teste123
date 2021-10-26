@@ -3,3 +3,6 @@ Lógica de Programação
 
 Gilson
 Victor
+Aaron
+Matheus
+Renan
